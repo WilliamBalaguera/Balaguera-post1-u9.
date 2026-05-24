@@ -1,11 +1,16 @@
 
 # Balaguera-Post1-U9
 **Estudiante:** William Balaguera
+
 **Código:** 1152439
 **Asignatura:** Arquitectura de Computadores
+
 **Unidad:** 9 — Entrada y Salida Avanzados
+
 **Actividad:** Post-Contenido 1
+
 **Programa:** Ingeniería de Sistemas — Universidad Francisco de Paula Santander
+
 **Año:** 2026
 
 ---
